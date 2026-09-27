@@ -1,12 +1,37 @@
-## Hi, I`m Licht 👋
+# Hi, I'm Licht 👋
 
-I am a junior Python backend developer 
+I'm a **junior Python backend developer**.
 
-I`m currently learning Python, fastAPI and I'm doing a bit of learning about creating TUI applications on Linux.
+I'm currently learning **Python** and **FastAPI**, while also experimenting with **TUI applications on Linux**.
 
-I work from both Windows and Linux (I choose based on my mood).
+I work from both **Windows and Linux** — I choose based on my mood. 😄
 
-Besides Python, I studied Kotlin, JS, and 1C (don't throw tomatoes at me, they forced me to do it in Unkick).
+Besides Python, I've also studied **Kotlin, JavaScript, and 1C**
+*(don't throw tomatoes at me, they forced me to do it in Unkick).* 🍅
+
+## 🐍 Currently learning
+
+* Python
+* FastAPI
+* Backend development
+* Linux & TUI applications
+* REST APIs
+* Databases
+* Docker
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+`Python` `JavaScript` `Kotlin` `1C`
+
+**Backend**
+
+`FastAPI` `Django`
+
+**Tools**
+
+`Git` `Linux` `Windows` `VS Code`
 <!--
 **Li1cht/Li1cht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
