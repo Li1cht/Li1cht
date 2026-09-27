@@ -12,11 +12,3 @@ I work from both **Windows and Linux** — I choose based on my mood. 😄
 Besides Python, I've also studied:
 <p> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/1C-000000?logo=1c&logoColor=white" /> </p> (don't throw tomatoes 🍅🍅🍅 at me, they forced me to do it in Unkick). 
 
-## 🌱 Currently learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> 
-</p>
-Linux & TUI applications |   REST APIs  |  Databases  |  Docker
-
