@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I`m Licht 👋
+
+I am a junior Python backend developer and a second-year university student.
 
 <!--
 **Li1cht/Li1cht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
