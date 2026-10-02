@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Licht 👋</h1>
+<h1 align="center">Hi, I'm Licht </h1>
 
 
-## 👋 About me
+## About me
 
 I'm a **junior Python backend developer**.
 
