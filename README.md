@@ -3,11 +3,9 @@
 
 ## About me
 
-I'm a **junior Python backend developer**.
+I'm a **Python backend developer**.
 
 I'm currently learning **Python, Django and FastAPI**, while also experimenting with **TUI applications on Linux**.
-
-I work from both **Windows and Linux** — I choose based on my mood. 😄
 
 Besides Python, I've also studied:
 
